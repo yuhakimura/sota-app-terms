@@ -38,6 +38,10 @@ main{
     margin-bottom:15px;
 }
 
+.emoji{
+    font-family: 'Noto Emoji', sans-serif;
+}
+
 .application{
     text-align: center;
     font-size: 0.8rem;
@@ -137,3 +141,4 @@ main{
     letter-spacing: 0.1rem;
     font-size: 0.8rem;
 }
+
